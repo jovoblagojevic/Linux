@@ -1,2 +1,5 @@
 move directory
 mv /home/jovob/dir1 /home/jovob/Desktop
+
+unzip fileName.zip
+zip fileName.zip
