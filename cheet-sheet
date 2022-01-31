@@ -1,5 +1,11 @@
 move directory
 mv /home/jovob/dir1 /home/jovob/Desktop
 
+rm filename
+rm -f filename(s)
+rmdir dirname
+rm -r dirname
+rm -rf dirname
+
 unzip fileName.zip
 zip fileName.zip
