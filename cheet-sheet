@@ -1,6 +1,8 @@
 move directory
 mv /home/jovob/dir1 /home/jovob/Desktop
 
+cp file1 file2
+
 rm filename
 rm -f filename(s)
 rmdir dirname
