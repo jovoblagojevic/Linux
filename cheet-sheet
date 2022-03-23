@@ -11,3 +11,5 @@ rm -rf dirname
 
 unzip fileName.zip
 zip fileName.zip
+
+cat ~/.ssh/id_rsa.pub
